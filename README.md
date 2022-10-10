@@ -1,1 +1,1 @@
-# Leetcode_SQ
+# Leetcode_SQ : Leetcode solved questions.
